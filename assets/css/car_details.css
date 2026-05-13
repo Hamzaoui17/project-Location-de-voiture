@@ -1,0 +1,69 @@
+/* --- GLOBAL PAGE STYLE --- */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+    background-color: #0d0d0d;
+    color: white;
+    text-align: center;
+}
+
+/* --- TITLE --- */
+h1 {
+    margin-top: 50px;
+    font-size: 48px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+/* --- VEHICLE IMAGE --- */
+.img {
+    width: 70%;
+    max-width: 700px;
+    border-radius: 20px;
+    margin: 30px auto;
+    display: block;
+    box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.1);
+}
+
+/* --- DETAILS LIST --- */
+.list-grp {
+    list-style: none;
+    padding: 0;
+    margin: 40px auto;
+    width: 60%;
+}
+
+.list {
+    background: #1b1b1b;
+    padding: 15px 20px;
+    border-radius: 12px;
+    margin-bottom: 12px;
+    font-size: 20px;
+    text-align: left;
+    border: 1px solid #2a2a2a;
+    transition: 0.2s;
+}
+
+.list:hover {
+    background: #242424;
+}
+
+/* --- RENT BUTTON --- */
+.btn {
+    background: #0fa832;
+    padding: 15px 40px;
+    color: white;
+    font-size: 22px;
+    border-radius: 12px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 20px;
+    transition: 0.3s;
+    box-shadow: 0px 0px 15px rgba(0, 255, 80, 0.2);
+}
+
+.btn:hover {
+    background: #12c440;
+    transform: scale(1.05);
+}
