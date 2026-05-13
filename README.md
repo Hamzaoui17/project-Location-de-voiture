@@ -16,4 +16,4 @@ Projet de gestion de location de voitures développé en PHP.
 - JavaScript
 
 ## Auteur
-Hamza Hamzaoui
+Hamza EL ABLAOUI
